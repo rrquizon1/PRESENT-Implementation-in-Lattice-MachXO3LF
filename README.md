@@ -8,7 +8,10 @@ You can check out the original PRESENT Paper here:[PRESENT Original Paper](https
 This implementation simplifies the input for demonstration purposes. This design has the following block diagram
 ![image](https://github.com/user-attachments/assets/1340730d-87b8-4622-a5df-188544604d8c)
 
-This design can be modified to have 64 bit plain text input and 80 bit cipher text input. This design was simplified for hardware demonstration with MachXO3LF starter kit.
+This design can be modified to have 64 bit plain text input and 80 bit cipher text input. This design was simplified for hardware demonstration with MachXO3LF starter kit:
+![image](https://github.com/user-attachments/assets/88a7d594-34ff-43e8-9b47-d146b8b5321d)
+
+
 
 The plain text and keys used in this example are the test vectors indicated in the original paper:
 ![image](https://github.com/user-attachments/assets/6b5a1c62-0bcd-4c93-908d-0bb8c179c851)
