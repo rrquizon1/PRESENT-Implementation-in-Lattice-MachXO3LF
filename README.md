@@ -41,7 +41,7 @@ We will then use the Reveal Analyzer to monitor our data. See below for sample c
 ![image](https://github.com/user-attachments/assets/519d424a-b428-466e-9dd5-092d108f9e59)
 ![image](https://github.com/user-attachments/assets/6b8bf3d6-1213-48fb-9609-cbae8ae6d5e4)
 
-Note: when you have finished debugging your design, you should remove the reveal as it is intended to be used only for debugging purposes. 
+Note: when you have finished debugging your design, you should remove the reveal core as it is intended to be used only for debugging purposes. 
 
 Resource usage with reveal core:
 
