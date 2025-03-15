@@ -3,7 +3,7 @@ This is an implementation of PRESENT Encryption algorith in Verilog using Lattic
 The PRESENT algorithm is an ultra-lightweight block cipher designed for resource-constrained environments, such as RFID tags, smart cards, and embedded systems. 
 It was introduced in 2007 by researchers from Orange Labs, Ruhr University Bochum, and the Technical University of Denmark.
 
-You can check out the original PRESENT Paper here: https://www.iacr.org/archive/ches2007/47270450/47270450.pdf
+You can check out the original PRESENT Paper here:([PRESENT Original Paper](https://www.iacr.org/archive/ches2007/47270450/47270450.pdf)) 
 
 This implementation simplifies the input for demonstration purposes. This design has the following block diagram
 ![image](https://github.com/user-attachments/assets/1340730d-87b8-4622-a5df-188544604d8c)
@@ -29,7 +29,7 @@ Then we set the trigger signal at Triger Signal Setup tab. For this example, I u
 After setting the reveal inserter, make sure that .rvl file is included in the Debug Files:
 ![image](https://github.com/user-attachments/assets/f52debf2-6d75-436c-9bdf-c0f314cda89f)
 
-For more instructions with Reveal Analyzer, you can check on this link: https://www.youtube.com/watch?v=krbasfW3h5E
+For more instructions with Reveal Analyzer, you can check on this link: ([Reveal Tutorial](https://www.youtube.com/watch?v=krbasfW3h5E)) 
 
 We will then use the Reveal Analyzer to monitor our data. See below for sample captures using the test vectors from the original paper:
 
