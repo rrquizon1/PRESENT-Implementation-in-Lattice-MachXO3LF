@@ -1,4 +1,4 @@
-This is an implementation of PRESENT Encryption algorith in Verilog using Lattice MachXO3LF Starter Kit.
+This is an implementation of PRESENT Encryption algorith in Verilog using Lattice MachXO3LF Starter Kit. This project was designed using Lattice Diamond 3.13. 
 
 The PRESENT algorithm is an ultra-lightweight block cipher designed for resource-constrained environments, such as RFID tags, smart cards, and embedded systems. 
 It was introduced in 2007 by researchers from Orange Labs, Ruhr University Bochum, and the Technical University of Denmark.
