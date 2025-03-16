@@ -37,8 +37,8 @@ For more instructions with Reveal Analyzer, you can check on this link:[Reveal T
 We will then use the Reveal Analyzer to monitor our data. See below for sample captures using the test vectors from the original paper:
 
 ![image](https://github.com/user-attachments/assets/a886429b-cbd3-4385-9fce-10aed4ed9c5b)
-![image](https://github.com/user-attachments/assets/f6c50a46-0e44-4352-ba88-e09b2a976b73)
 ![image](https://github.com/user-attachments/assets/519d424a-b428-466e-9dd5-092d108f9e59)
+![image](https://github.com/user-attachments/assets/f6c50a46-0e44-4352-ba88-e09b2a976b73)
 ![image](https://github.com/user-attachments/assets/6b8bf3d6-1213-48fb-9609-cbae8ae6d5e4)
 
 Note: when you have finished debugging your design, you should remove the reveal core as it is intended to be used only for debugging purposes. 
